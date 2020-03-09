@@ -1,0 +1,18 @@
+<span id="a">shivamkathuria@github.io</span>:<span id="b">~</span><span id="c">$</span> cd shivamkathuria/
+<span id="a">shivamkathuria@github.io</span>:<span id="b">~/shivamkathuria/</span><span id="c">$</span> cat aboutme.txt
+<br/><!--
+<br/> My favorite code quote, "<span id="k">Code for Everyone</span>".
+ sjkfhskjf -->
+Hey There! This is Shivam Kathuria.
+<p>I am currently pursuing my bachelor's degree majoring in Electrical Engineering and minors in Computer Science from Punjab Engineering College, Chandigrah.</p>
+<p>I love coding and understanding things from a mathematical point of view. I also like Neural Networks and Machine Learning.</p>
+<p> I have worked in fields like Web Development, Robotics, Computer Vision, Natural Language Processing, Data Science, FinTech and Automation. You can have a look at my <a href="https://drive.google.com/open?id=12aDyUfSXQRuETRbdxtCpheTz9LuWPwoB"> resume</a> for details on my internships and projects.</p>
+<p>My favourite TV Shows include : FRIENDS, HIMYM, Sacred Games, Family Man, Suits and many more. I also love travel and photography.
+</p>
+<p> You can visit my other profiles like:
+    <br> <a href="https://www.linkedin.com/in/shivam-kathuria-08578682/">LinkedIn</a>, <a href="https://www.facebook.com/shivam.kathuria.779"> Facebook</a>, <a href="https://www.instagram.com/_shivam.kathuria_"> Instagram</a>, <a href="https://github.com/shivamkathuria"> GitHub</a> and <a href="https://www.codechef.com/users/shivamkathuria"> CodeChef</a>.
+
+Feel free to send me an email at <a href="mailto:shivamkathuria9@gmail.com">shivamkathuria9@gmail.com</a>.
+
+<p>Cheers!</p>
+<span id="a">shivamkathuria@github.io</span>:<span id="b">~/shivamkathuria/</span><span id="c">$</span> exit
